@@ -1,0 +1,25 @@
+# Football Analytics — Dependencies
+# Python 3.12 | RTX 4060 | CUDA | Windows 11
+
+# Core
+opencv-python>=4.9.0
+numpy>=1.26.0
+torch>=2.1.0
+torchvision>=0.16.0
+
+# Detection, Segmentation, Pose
+ultralytics>=8.3.0
+
+# Visualization
+matplotlib>=3.8.0
+scipy>=1.11.0
+
+# Utilities
+tqdm>=4.66.0
+Pillow>=10.0.0
+
+# ReID (optional — fallback embedder works without it)
+# torchreid>=1.4.0
+
+# Reporting
+# scikit-learn>=1.3.0  # only if using advanced clustering

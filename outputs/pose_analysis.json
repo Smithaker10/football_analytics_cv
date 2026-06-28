@@ -1,0 +1,53 @@
+{
+  "version": "7.0",
+  "video": "../test2.mp4",
+  "resolution": [
+    1920,
+    1080
+  ],
+  "fps": 30.0,
+  "frames_processed": 368,
+  "duration_sec": 12.27,
+  "actions_detected": {
+    "idle": 2,
+    "running": 9
+  },
+  "kicks_total": 0,
+  "possession": {
+    "team_a": 50.0,
+    "team_b": 50.0
+  },
+  "speed": {
+    "average_kmh": 11.07,
+    "peak_kmh": 0.0
+  },
+  "distance": {
+    "team_a_m": 0.0,
+    "team_b_m": 0.0
+  },
+  "players": {
+    "P847": {
+      "team": "unknown",
+      "distance_m": 0.0,
+      "avg_speed_kmh": 0.0,
+      "sprints": 0,
+      "actions": {
+        "idle": 2,
+        "running": 7
+      }
+    },
+    "P848": {
+      "team": "goalkeeper",
+      "distance_m": 0.0,
+      "avg_speed_kmh": 0.0,
+      "sprints": 0,
+      "actions": {
+        "running": 2
+      }
+    }
+  },
+  "config": {
+    "max_tracks": 30,
+    "model": "YOLO11x"
+  }
+}
