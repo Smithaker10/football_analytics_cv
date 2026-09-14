@@ -1,0 +1,32 @@
+name: 🐛 Bug Report
+description: Create a report to help us improve Football Analytics CV
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: Thanks for taking the time to fill out this bug report!
+  - type: textarea
+    id: description
+    attributes:
+      label: Bug Description
+      description: A clear and concise description of what the bug is.
+    validations:
+      required: true
+  - type: input
+    id: environment
+    attributes:
+      label: Environment Info
+      description: OS version, Python version, GPU model, CUDA version, PyTorch version.
+      placeholder: Windows 11 / Ubuntu 22.04 | Python 3.11 | RTX 4060 | CUDA 12.1
+    validations:
+      required: true
+  - type: textarea
+    id: reproduction
+    attributes:
+      label: Steps to Reproduce
+      description: How can we reproduce this issue?
+      placeholder: |
+        1. Run 'python main.py match.mp4'
+        2. See error at frame ...
+    validations:
+      required: true
