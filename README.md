@@ -13,7 +13,7 @@
 <br/>
 
 <a href="#-tactical--analytical-showcase">
-  <img src="assets/banner.png" alt="Football Analytics CV Banner" width="100%" style="border-radius: 10px; box-shadow: 0 8px 24px rgba(0,0,0,0.5);">
+  <img src="assets/thumbnail.png" alt="Football Analytics CV Banner" width="100%" style="border-radius: 10px; box-shadow: 0 8px 24px rgba(0,0,0,0.5);">
 </a>
 
 <p align="center">
