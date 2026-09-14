@@ -1,0 +1,36 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyTorch / Ultralytics Model Weights (large files)
+*.pt
+*.pth
+*.onnx
+*.engine
+
+# Environments & Virtual Envs
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# IDE & OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Temp / Cache
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Keep outputs directory structure but avoid huge video dumps if needed
+# outputs/*.mp4

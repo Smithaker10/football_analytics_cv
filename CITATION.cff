@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this software in your research or tactical analytics workflow, please cite it as below."
+title: "Football Analytics CV: Real-Time Computer Vision Pipeline for Broadcast Match Intelligence"
+authors:
+  - family-names: "Thaker"
+    given-names: "Smit"
+    orcid: ""
+version: "7.0.0"
+date-released: 2026-03-14
+url: "https://github.com/Smithaker10/football_analytics_cv"
+keywords:
+  - "computer-vision"
+  - "football-analytics"
+  - "yolo11"
+  - "bytetrack"
+  - "pose-estimation"
+  - "sports-analytics"
+  - "homography"
+  - "deep-learning"
