@@ -172,6 +172,15 @@ Comparative profiling of opposing tactical setups: Possession dominance, Field T
   <img src="assets/football_heatmap.png" alt="Football Heatmap" width="85%" style="border-radius: 8px; border: 1px solid #1f375b;">
 </div>
 
+<br/>
+
+### 5. Full Match Broadcast Analytics Report
+Generated post-match summary highlighting average player velocities over time, match intensity dynamics, YOLO11x action recognition frame counts, and cumulative tactical KPIs.
+
+<div align="center">
+  <img src="assets/match_highlights_report.png" alt="Full Match Broadcast Analytics Report" width="95%" style="border-radius: 8px; border: 1px solid #1f375b;">
+</div>
+
 ---
 
 ## ⚡ Quickstart & Installation
