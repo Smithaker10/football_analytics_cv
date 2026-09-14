@@ -12,12 +12,15 @@ Handles:
 
 import logging
 from collections import deque
-from typing import Dict, List, Optional, Tuple
+from typing import TYPE_CHECKING, Dict, List, Optional, Tuple
 
 import numpy as np
 
 from config import CFG
 from detector import DetectionResult
+
+if TYPE_CHECKING:
+    from homography import HomographyEstimator
 
 logger = logging.getLogger(__name__)
 
